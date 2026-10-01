@@ -67,7 +67,7 @@ El SDK utilizado para compilar y el nivel de API del teléfono son datos distint
 
 ## BASE-02: flujo existente cercano
 
-PENDIENTE de ejecutar y registrar antes de modificar el código. Propuesta: desde el menú, abrir Ajustes y regresar; anotar pasos, resultado esperado, resultado real y evidencia. Si ese flujo no puede ejecutarse, documentar la causa y elegir otro flujo cercano verificable.
+https://github.com/user-attachments/assets/74af76e9-e0c6-45be-8c57-069d5eeed958
 
 ## Herramientas de apoyo
 
