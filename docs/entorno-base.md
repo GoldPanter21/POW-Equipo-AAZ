@@ -60,10 +60,10 @@ El SDK utilizado para compilar y el nivel de API del teléfono son datos distint
 
 ### Evidencias
 
-- Captura original del menú: `Screenshot_20261001_012808.png`.
-- Enlace a la captura del menú publicada en GitHub: PENDIENTE.
+- Captura original del menú:
+  <img width="1080" height="2400" alt="Screenshot_20261001_012808" src="https://github.com/user-attachments/assets/18011a71-c432-4bcb-bba7-8bacc293db17" />
 - Captura de Android Studio Device Info: Xiaomi 22021211RG, API 34-ext22.
-- Enlace a la captura del dispositivo publicada en GitHub: PENDIENTE.
+<img width="381" height="378" alt="Captura de pantalla 2026-10-01 075249" src="https://github.com/user-attachments/assets/eac65dfa-6456-43db-aa65-b7d718210667" />
 
 ## BASE-02: flujo existente cercano
 
