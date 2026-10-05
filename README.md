@@ -45,4 +45,4 @@ El acceso a la documentación de la idea principal de nuestra idea se encuentra 
 - Ejecución en el equipo de Zyanya Sánchez:<br>
 <img src = "docs/evidencias/Cap_Nya.png" width = "400">
 - Ejecución en el equipo de Angel Téllez:<br>
-<img src = "" width = "400">
+<img src = "docs/evidencias/Cap_Tellez.png" width = "400">
