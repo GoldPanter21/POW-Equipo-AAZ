@@ -37,3 +37,12 @@ El acceso a la documentación de la idea principal de nuestra idea se encuentra 
 - [Selecciona aquí para acceder al Pull Request de Angel Orozco](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/169)
 - [Selecciona aquí para acceder al Pull Request de Zyanya Sánchez](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/171)
 - [Selecciona aquí para acceder al Pull Request de Angel Téllez](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/173)
+
+## Evidencias de Ejecución:
+
+- Ejecución en el equipo de Angel Orozco:<br>
+<img src = "docs/evidencias/Cap_Isai.png" width = "400">
+- Ejecución en el equipo de Zyanya Sánchez:<br>
+<img src = "docs/evidencias/Cap_Nya.png" width = "400">
+- Ejecución en el equipo de Angel Téllez:<br>
+<img src = "" width = "400">
